@@ -1,16 +1,18 @@
-COMPANY: CODTECH IT SOLUTIONS
+# API-INTEGRATION 
 
-NAME: ANUSHIYA R
+*COMPANY*: CODTECH IT SOLUTIONS
 
-INTERN ID: CT04DG3464
+*NAME*: ANUSHIYA R
 
-DOMAIN:FULL STACK DEVELOPMENT
+*INTERN ID*: CT04DG3464
 
-DURATION: 4 WEEKS
+*DOMAIN*:FULL STACK DEVELOPMENT
 
-MENTOR: MUZAMMIL
+*DURATION*: 4 WEEKS
 
-DESCRIPTION:
+*MENTOR*: MUZAMMIL
+
+*DESCRIPTION*:
 
 As part of my ongoing internship at CoreTech IT Solutions, I am enrolled in a full-stack development program. One of the primary objectives in this internship is to gain hands-on experience with real-world projects that use modern development practices. For the first project, I was assigned a task under the topic API Integration, where I developed a Weather App.
 
@@ -78,7 +80,7 @@ Completing this task was a significant step in my full-stack development journey
 
 This weather app serves as a foundation for more complex projects in the future. By mastering API integration, I am now confident in moving on to tasks that involve back-end integration, database connectivity, and full-stack deployments.
 
-##OUTPUT
+#OUTPUT
 
 
 <img width="1913" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a9cffedd-d90f-4089-8071-686b231419a3" />
