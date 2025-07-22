@@ -79,3 +79,10 @@ Completing this task was a significant step in my full-stack development journey
 This weather app serves as a foundation for more complex projects in the future. By mastering API integration, I am now confident in moving on to tasks that involve back-end integration, database connectivity, and full-stack deployments.
 
 ##OUTPUT
+
+
+<img width="1913" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a9cffedd-d90f-4089-8071-686b231419a3" />
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/93eff233-8fb4-417d-977a-e811bf136505" />
+<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/cc16c6e0-bc16-43e8-b4a7-171fa0eb5935" />
+<img width="1917" height="973" alt="Image" src="https://github.com/user-attachments/assets/5f1f022f-0135-4384-8ef4-2710afde0be7" />
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/75560545-f88a-44a7-8973-4d24d7cc0929" />
